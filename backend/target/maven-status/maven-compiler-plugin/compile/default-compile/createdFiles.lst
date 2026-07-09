@@ -1,0 +1,12 @@
+com\gamestore\upn\controller\CompraController.class
+com\gamestore\upn\controller\VideojuegoController.class
+com\gamestore\upn\controller\CarritoController.class
+com\gamestore\upn\service\DbService$1.class
+com\gamestore\upn\controller\GerenteController.class
+com\gamestore\upn\GameStoreApplication.class
+com\gamestore\upn\controller\AuthController.class
+com\gamestore\upn\controller\CategoriaController.class
+com\gamestore\upn\controller\DashboardController.class
+com\gamestore\upn\controller\ApiExceptionHandler.class
+com\gamestore\upn\service\DbService.class
+com\gamestore\upn\controller\RawgController.class
